@@ -1,0 +1,28 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/credit.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/corps.css");
+ 
+ 
+body {
+                font-family: '', serif;
+                font-size: 18px;
+                background: white;
+                margin: 0px;
+}
+ 
+h1 {
+                font-size: 30px;
+}
+ 
+h2 {
+                font-weight: bold;
+                font-size: 20px;
+}
+ 
+h3 {
+                font-size: 15px;
+                padding: 20px;
+}
